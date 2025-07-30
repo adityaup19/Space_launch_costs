@@ -14,7 +14,7 @@ CSIS Aerospace Security Project
 - `cost_per_kg_chart.py`: the plotting script
 
 ## How to run
-```bash
+```bash```      
 pip install -r requirements.txt
 python cost_per_kg_chart.py
 
