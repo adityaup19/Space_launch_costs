@@ -20,7 +20,7 @@ python cost_per_kg_chart.py
 
 Methodology
 
-1. **Data collection**
+1. *Data collection*
    Pulled cost-per-kg figures from the CSIS Aerospace Security Project.  
 2. **Data processing**  
    Manually selected five recent launch vehicles and built a small DataFrame.  
