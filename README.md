@@ -11,7 +11,7 @@ CSIS Aerospace Security Project
 (https://aerospace.csis.org/data/space-launch-to-low-earth-orbit-how-much-does-it-cost/)
 
 ## Files
-- `cost_per_kg_chart.py`: the plotting script
+- `cost_per_kg_chart.py`: the code 
 
 ## How to run
 ```bash```      
