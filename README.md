@@ -28,7 +28,7 @@ Methodology
   Created a clean, annotated bar chart in Matplotlib with ggplot styling. 
 
 ## Key Insights 
-- 𝗙𝗮𝗹𝗰𝗼𝗻 𝗛𝗲𝗮𝘃𝘆 at ($1,500/kg) is by far the cheapest—thanks to reusability. 
+- 𝗙𝗮𝗹𝗰𝗼𝗻 𝗛𝗲𝗮𝘃𝘆 at ($1,500/kg) is by far the cheapest - thanks to reusability. 
 - 𝗠𝗶𝗻𝗼𝘁𝗮𝘂𝗿 𝗜𝗩 at ($30,500/kg) is the most expensive, reflecting its niche government role. 
 - Mid‑range rockets like 𝗔𝗻𝗴𝗮𝗿𝗮 and 𝗟𝗼𝗻𝗴 𝗠𝗮𝗿𝗰𝗵 𝟱 land around ($4,500–7,900/kg). 
 
